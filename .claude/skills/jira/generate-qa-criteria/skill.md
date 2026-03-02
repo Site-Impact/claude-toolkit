@@ -12,7 +12,7 @@ Analyzes staged or branch-level code changes alongside Jira ticket context and g
 - Atlassian MCP server must be configured
 - On a feature branch with changes (not main/master)
 - Branch name should contain the Jira issue key (e.g., `XYZ-123-create-qa-criteria-skill`)
-- The cloudId for this project is: `8b7422dc-6a44-484c-87eb-b4805a6235e2`
+- The cloudId for this project is: ``
 
 ## Workflow
 
